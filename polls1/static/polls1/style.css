@@ -1,0 +1,9 @@
+li a {
+    color: white;
+}
+
+body {
+    background-image: url("images/background.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
